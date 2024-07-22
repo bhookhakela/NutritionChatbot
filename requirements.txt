@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain-chroma
+python-dotenv
+langchain-huggingface
+llama-index
+faiss-cpu
+torch
+torchvision
+torchaudio
+easyocr
+django
